@@ -1,0 +1,17 @@
+{
+  "name": "pickadate",
+  "version": "3.5.3",
+  "main": "lib/index.js",
+  "dependencies": {
+    "kelonye/jquery": "1.9.1"
+  },
+  "scripts": [
+    "lib/index.js",
+    "lib/picker.js",
+    "lib/picker-date.js",
+    "lib/picker-time.js",
+    "lib/legacy.js"
+  ],
+  "styles": [
+  ]
+}

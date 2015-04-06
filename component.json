@@ -1,6 +1,6 @@
 {
   "name": "pickadate",
-  "version": "3.5.3",
+  "version": "3.5.5",
   "main": "lib/index.js",
   "dependencies": {
     "kelonye/jquery": "1.10.2"
